@@ -1,0 +1,66 @@
+-IC:\Users\Ricca\.platformio\packages\framework-arduinoespressif8266\tools\sdk\include
+-IC:\Users\Ricca\.platformio\packages\framework-arduinoespressif8266\tools\sdk\libc\xtensa-lx106-elf\include
+-IC:\Users\Ricca\.platformio\packages\framework-arduinoespressif8266\cores\esp8266
+-IC:\Users\Ricca\.platformio\packages\framework-arduinoespressif8266\tools\sdk\lwip2\include
+-IC:\Users\Ricca\.platformio\packages\framework-arduinoespressif8266\variants\generic
+-ID:\Projects\healthair\Health Air\lib\ESP8266HTTPClient\src
+-ID:\Projects\healthair\Health Air\lib\ESP8266WebServer\src
+-ID:\Projects\healthair\Health Air\lib\ESP8266WiFi\src
+-ID:\Projects\healthair\Health Air\lib\Wire
+-IC:\Users\Ricca\.platformio\lib\SparkFun SCD30 Arduino Library_ID5449\src
+-IC:\Users\Ricca\.platformio\packages\framework-arduinoespressif8266\libraries\ESP8266mDNS\src
+-ID:\Projects\healthair\Health Air\lib\DNSServer\src
+-ID:\Projects\healthair\Health Air\lib\EEPROM
+-ID:\Projects\healthair\Health Air\lib\ESP8266AVRISP\src
+-ID:\Projects\healthair\Health Air\lib\SPI
+-ID:\Projects\healthair\Health Air\lib\SoftwareSerial
+-ID:\Projects\healthair\Health Air\lib\esp8266\src
+-IC:\Users\Ricca\.platformio\lib\WifiManager_ID567
+-IC:\Users\Ricca\.platformio\packages\framework-arduinoespressif8266\libraries\ArduinoOTA
+-IC:\Users\Ricca\.platformio\packages\framework-arduinoespressif8266\libraries\DNSServer\src
+-IC:\Users\Ricca\.platformio\packages\framework-arduinoespressif8266\libraries\EEPROM
+-IC:\Users\Ricca\.platformio\packages\framework-arduinoespressif8266\libraries\ESP8266AVRISP\src
+-IC:\Users\Ricca\.platformio\packages\framework-arduinoespressif8266\libraries\ESP8266HTTPClient\src
+-IC:\Users\Ricca\.platformio\packages\framework-arduinoespressif8266\libraries\ESP8266HTTPUpdateServer\src
+-IC:\Users\Ricca\.platformio\packages\framework-arduinoespressif8266\libraries\ESP8266LLMNR
+-IC:\Users\Ricca\.platformio\packages\framework-arduinoespressif8266\libraries\ESP8266NetBIOS
+-IC:\Users\Ricca\.platformio\packages\framework-arduinoespressif8266\libraries\ESP8266SSDP
+-IC:\Users\Ricca\.platformio\packages\framework-arduinoespressif8266\libraries\ESP8266WebServer\src
+-IC:\Users\Ricca\.platformio\packages\framework-arduinoespressif8266\libraries\ESP8266WiFi\src
+-IC:\Users\Ricca\.platformio\packages\framework-arduinoespressif8266\libraries\ESP8266WiFiMesh\src
+-IC:\Users\Ricca\.platformio\packages\framework-arduinoespressif8266\libraries\ESP8266httpUpdate\src
+-IC:\Users\Ricca\.platformio\packages\framework-arduinoespressif8266\libraries\Ethernet\src
+-IC:\Users\Ricca\.platformio\packages\framework-arduinoespressif8266\libraries\GDBStub\src
+-IC:\Users\Ricca\.platformio\packages\framework-arduinoespressif8266\libraries\Hash\src
+-IC:\Users\Ricca\.platformio\packages\framework-arduinoespressif8266\libraries\SD\src
+-IC:\Users\Ricca\.platformio\packages\framework-arduinoespressif8266\libraries\SPI
+-IC:\Users\Ricca\.platformio\packages\framework-arduinoespressif8266\libraries\SPISlave\src
+-IC:\Users\Ricca\.platformio\packages\framework-arduinoespressif8266\libraries\Servo\src
+-IC:\Users\Ricca\.platformio\packages\framework-arduinoespressif8266\libraries\SoftwareSerial
+-IC:\Users\Ricca\.platformio\packages\framework-arduinoespressif8266\libraries\TFT_Touch_Shield_V2
+-IC:\Users\Ricca\.platformio\packages\framework-arduinoespressif8266\libraries\Ticker
+-IC:\Users\Ricca\.platformio\packages\framework-arduinoespressif8266\libraries\Wire
+-IC:\Users\Ricca\.platformio\packages\framework-arduinoespressif8266\libraries\esp8266\src
+-IC:\Users\Ricca\.platformio\packages\toolchain-xtensa\xtensa-lx106-elf\include
+-IC:\Users\Ricca\.platformio\packages\toolchain-xtensa\xtensa-lx106-elf\include\c++\4.8.2
+-IC:\Users\Ricca\.platformio\packages\toolchain-xtensa\xtensa-lx106-elf\include\c++\4.8.2\xtensa-lx106-elf
+-IC:\Users\Ricca\.platformio\packages\toolchain-xtensa\lib\gcc\xtensa-lx106-elf\4.8.2\include
+-IC:\Users\Ricca\.platformio\packages\toolchain-xtensa\lib\gcc\xtensa-lx106-elf\4.8.2\include-fixed
+-IC:\Users\Ricca\.platformio\packages\tool-unity
+-ID:\Projects\healthair\Health Air\include
+-ID:\Projects\healthair\Health Air\src
+-DPLATFORMIO=30604
+-DESP8266
+-DARDUINO_ARCH_ESP8266
+-DARDUINO_ESP8266_ESP01
+-DF_CPU=40000000L
+-D__ets__
+-DICACHE_FLASH
+-DARDUINO=10805
+-DARDUINO_BOARD="PLATFORMIO_ESP01"
+-DFLASHMODE_DIO
+-DLWIP_OPEN_SRC
+-DTCP_MSS=536
+-DLWIP_FEATURES=1
+-DLWIP_IPV6=0
+-DVTABLES_IN_FLASH
